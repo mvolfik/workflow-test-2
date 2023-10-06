@@ -1,0 +1,22 @@
+{
+  "actors": {
+    "tripadvisor-source": {
+      "actorId": "cDWFIOv0zxYGBd0pb",
+      "testTaskIds": ["pfNAgozHgMe6oVcZA"],
+      "alphaVersion": "0.2",
+      "betaVersion": "0.1"
+    },
+    "tripadvisor-reviews": {
+      "actorId": "Hvp4YfFGyLM635Q2F",
+      "testTaskIds": ["0yoDx7pKKW6Sq2TPt"],
+      "alphaVersion": "0.2",
+      "betaVersion": "0.1"
+    },
+    "tripadvisor-paid": {
+      "actorId": "dbEyMBriog95Fv8CW",
+      "testTaskIds": ["0cGt4GbmWarDBTJeK"],
+      "alphaVersion": "0.2",
+      "betaVersion": "0.1"
+    }
+  }
+}
